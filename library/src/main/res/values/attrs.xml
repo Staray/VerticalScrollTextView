@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalScrollTextView">
+        <attr name="verticalScrollTextColor" format="color"/>
+        <attr name="verticalScrollTextSize" format="dimension"/>
+        <attr name="verticalScrollPeriod" format="integer"/>
+    </declare-styleable>
+</resources>
